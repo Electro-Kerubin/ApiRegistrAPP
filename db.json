@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "run": "20304923",
+      "dv": "4",
+      "primerNombre": "Aquiles",
+      "segundoNombre": "Segundo",
+      "paternoApellido": "Baeza",
+      "maternoApellido": "Perez",
+      "correo": "aqui.baeza@duocuc.cl",
+      "contraseña": "pass123"
+    },
+    {
+      "id": 2,
+      "run": "21549283",
+      "dv": "2",
+      "primerNombre": "Susana",
+      "segundoNombre": "Andrea",
+      "paternoApellido": "Cortez",
+      "maternoApellido": "Rojas",
+      "correo": "susa.cortez@duocuc.cl",
+      "contraseña": "pass123"
+    }
+  ]
+}
