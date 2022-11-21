@@ -1,7 +1,7 @@
 {
   "usuarios": [
     {
-      "id": "20309502",
+      "id": 20309502,
       "dv": "4",
       "primerNombre": "Aquiles",
       "segundoNombre": "Segundo",
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "id": "19234048",
+      "id": 19234048,
       "dv": "2",
       "primerNombre": "Susana",
       "segundoNombre": "Andrea",
